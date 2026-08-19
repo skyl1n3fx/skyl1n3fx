@@ -13,6 +13,8 @@ If you'd like, feel free to reach out—**we can definitely connect!** 🌸
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
 </a>
 
+---
+
 Ｓｈｉｎｋａｎｓｅｎ　Ｐｒｏｔｏｃｏｌ　ラ゜ホ
 
 En un mundo de simulaciones, la autenticidad es el único código que no se puede replicar.
