@@ -5,7 +5,6 @@
 I'm **Jorge**! It’s such a delight that you found this little corner of mine! (◕‿◕)♡  
 If you'd like, feel free to reach out—**we can definitely connect!** 🌸
 
----
 
 ### 🎀 Let's be friends!
 
