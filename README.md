@@ -20,7 +20,7 @@ En un mundo de simulaciones, la autenticidad es el único código que no se pued
 タナ液炎ひアん異ギ援ぶ新泳ゾスざ
 
 <p align="center">
-  <img width="1024" height="500" alt="image" src="https://drive.google.com/uc?export=view&id=1CnVNRbBf3NClYipBlj_6JtGoK64YUE4d" />
+  <img width="1024" height="500" alt="image" src="https://drive.google.com/uc?export=view&id=141Fkf3JdlfsdhbvIcIuldCcKAWgmFcv6" />
 </p>
 
 > *Thanks for stopping by! Have a wonderful and lovely day!* (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
