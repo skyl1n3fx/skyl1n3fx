@@ -4,28 +4,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=1100&color=E8436F&center=true&vCenter=true&width=640&lines=%3E+hello+wrld+(%E3%83%BB%CF%89%E3%83%BB)%E3%83%8E;%3E+waking+up+30+agents...+%5BOK%5D;%3E+reading+the+order+book...+%5BOK%5D;%3E+bypassing+boredom...+%5BOK%5D+(%EF%BD%A1%E2%80%A2%CC%80%E1%B4%97-)%E2%9C%A7;%3E+authenticity+can't+be+replicated." alt="typing" />
 </p>
 
-### ⟢ ステータス — status window
-
-<p align="center"><img width="320" src="https://media.giphy.com/media/3NG0XkfQPPC8yJ9IuS/giphy.gif" alt="monochrome manga girl" /></p>
-
-```ini
-[player] Jorge · skyl1n3
-[class ] AI Engineer · Netrunner
-         Market Ronin
-[home  ] Santiago, Chile
-[guild ] 30+ agents that plan,
-         code, test & audit
-[skills] agents     ▰▰▰▰▰▰▰▱
-         hacking    ▰▰▰▰▰▰▱▱
-         trading    ▰▰▰▰▰▱▱▱
-         linux      ▰▰▰▰▰▰▰▱
-[buffs ] anime · cyber-Y2K
-         lo-fi at 3 a.m. · coffee
-[quest ] a personal AI OS &
-         a 3D anime mascot
-[save  ] 2026-11-21 · spring arc
-```
-
 ### ⟢ いま — now playing
 
 <img width="190" src="https://media.giphy.com/media/74PCGC8LDTtNFQgMId/giphy.gif" align="left" alt="Makima — Chainsaw Man" />
