@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="56" viewBox="0 0 1240 56" role="img" aria-label="Código a las 3 a.m. · Velas y café · Scripts y sueño · Anime en bucle · Cyber pirate · Hecho en Chile">
+  <style>
+    .band { fill: #1d1b4d; }
+    .t { font: 800 22px "Space Grotesk", "Segoe UI", "Helvetica Neue", Arial, sans-serif; font-style: italic; fill: #fff3a3; }
+    .s { fill: #7fe8ff; }
+    .run { animation: run 22s linear infinite; }
+    @keyframes run { from { transform: translateX(0); } to { transform: translateX(-1240px); } }
+    @media (prefers-reduced-motion: reduce) { .run { animation: none; } }
+  </style>
+  <rect class="band" x="0" y="0" width="1240" height="56" rx="14"/>
+  <g class="run">
+    <text class="t" x="20" y="36"><tspan class="s">★</tspan> Código a las 3 a.m.  <tspan class="s">★</tspan> Velas y café  <tspan class="s">★</tspan> Scripts y sueño  <tspan class="s">★</tspan> Anime en bucle  <tspan class="s">★</tspan> Cyber pirate  <tspan class="s">★</tspan> Hecho en Chile</text>
+    <text class="t" x="1260" y="36"><tspan class="s">★</tspan> Código a las 3 a.m.  <tspan class="s">★</tspan> Velas y café  <tspan class="s">★</tspan> Scripts y sueño  <tspan class="s">★</tspan> Anime en bucle  <tspan class="s">★</tspan> Cyber pirate  <tspan class="s">★</tspan> Hecho en Chile</text>
+  </g>
+</svg>
